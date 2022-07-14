@@ -1,0 +1,19 @@
+{
+  "name": "typescript-personal-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasHimelfarb/typescript-personal-playground.git"
+  },
+  "author": "lucas Himelfarb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasHimelfarb/typescript-personal-playground/issues"
+  },
+  "homepage": "https://github.com/LucasHimelfarb/typescript-personal-playground#readme"
+}
