@@ -2,7 +2,7 @@
   "name": "typescript-personal-playground",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LucasHimelfarb/typescript-personal-playground/issues"
   },
-  "homepage": "https://github.com/LucasHimelfarb/typescript-personal-playground#readme"
+  "homepage": "https://github.com/LucasHimelfarb/typescript-personal-playground#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
 }
