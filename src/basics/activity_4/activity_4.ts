@@ -7,8 +7,8 @@ interface Figure {
 }
 
 class GeometricFigure {
-  base: number;
-  height: number;
+  public base: number;
+  public height: number;
 
   constructor(base: number, height: number) {
     this.base = base;
