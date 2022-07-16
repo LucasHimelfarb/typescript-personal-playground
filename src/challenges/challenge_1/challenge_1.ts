@@ -1,6 +1,10 @@
 
 "use strict"
 
+// Write a function that takes two numbers (a and b) as argument
+// Sum a and b
+// Return the result
+
 const sum = (a: number, b: number) => {
   let _a = a;
   let _b = b;
